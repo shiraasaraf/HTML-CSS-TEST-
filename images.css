@@ -1,0 +1,18 @@
+#RightBar{
+    position: absolute;
+    top: 30px;
+    left: 1000px;
+}
+
+#Login{
+    position: absolute;
+}
+#signup{
+    position: absolute;
+    left: 80px;
+}
+#Helpicon{
+    position: absolute;
+    left: 190px;
+
+}
