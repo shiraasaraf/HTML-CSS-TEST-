@@ -1,0 +1,90 @@
+#cGPTicon{
+    width: 30px;
+    height: 30px;
+}
+main{
+    background-color: #FFFFFF;
+}
+
+nav{
+    position: absolute;
+    top: 30px;
+    left: 450px;
+
+    
+}
+
+#RightBar{
+    position: absolute;
+    top: 30px;
+    left: 1000px;
+}
+
+#Login{
+    position: absolute;
+}
+#signup{
+    position: absolute;
+    left: 80px;
+}
+#Helpicon{
+    position: absolute;
+    left: 190px;
+
+}
+
+#LeftBar{
+    position: absolute;
+    top: 30px;
+    left: 50px;
+}
+
+
+
+#Welcomscript{
+    position: absolute;
+    top: 300px;
+    left: 480px;
+    
+}
+
+#inputsuction{
+    position: absolute;
+    top: 300px;
+}
+
+#cGPTicon{
+    position: absolute;
+}
+
+#arrowicon{
+    position: absolute;
+    left: 80px;
+
+}
+
+#inputsuction{
+    position: absolute;
+    top: 400px;
+    left: 480px;
+}
+
+#Attach{
+    position: absolute;
+}
+#Search{
+    position: absolute;
+    left: 80px;
+}
+#Study{
+    position: absolute;
+    left: 160px;
+}
+#CreateImage{
+    position: absolute;
+    left: 240px;
+}
+#Voice{
+    position: absolute;
+    left: 320px;
+}
